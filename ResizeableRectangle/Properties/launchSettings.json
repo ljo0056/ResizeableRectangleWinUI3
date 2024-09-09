@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ResizeableRectangle (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "ResizeableRectangle (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
